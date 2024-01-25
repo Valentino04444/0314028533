@@ -1,0 +1,50 @@
+\documentclass{article}
+\usepackage[utf8]{graphicx} % Required for inserting images
+
+
+\title{IT i Primjena - Računalo}
+\author{Valentino Andrijević}
+\date{Siječanj 2024}
+
+\begin{document}
+
+\maketitle
+\section{Uvod}
+Ovo računalo je sagrađeno specificno za igranje igrica i komponente su skupe. Cilj je dobiti računalo koje
+će biti dugotrajno i koje se može koristiti za bilo koji posao koji korisnik želi odraditi.
+
+\section{Procesor}
+\textbf{AMD Ryzen 7 7800X3D 4.2 GHz 8-core}
+\\ Max memorija: 128GB
+\\ Integrirana grafike: Radeon
+\\ Izvedba L1 Cache
+\\ 8 x 32 kB Instruction
+\\ 8 x 32 kB Data
+\\ Izvedba L2 Cache
+\\ 8 x 1 MB
+\\ L3 Cache
+\\ 1 x 96 MB
+\\ Ovaj procesor je među najboljim procesorima od Ryzen-a.
+U testovima je pobjedio Intelov Core i9-13900K.
+
+\section{Procesorski hladnjak}
+\textbf{Cooler Master MasterAir MA824 Stealth}
+\\ Glasnoća: 0-24.6 dB
+\\ Visina: 165 mm
+\\ Boja: crna
+\\ Ovaj procesorski hladnjak je poznat po svojoj efikasnosti u hlađenju gaming procesora.
+Cijena mu je vrlo visoka ali vrlo dobro obavlja svoj posao hlađenjem vrlo jakog procesora.
+
+\section{Matična ploča}
+\textbf{ASUS ROG Strix X670E-E}
+\\ Gaming Socket AM5(LGA 1718) Ryzen 7000 ATX Motherboard(18+2 Power Stages,PCIe® 5.0, DDR,4xM.2 Slots,USB 3.2 Gen 2x2, WiFi 6E,PCIe Slot Q-Release, M.2 Q-Latch).
+\\ Ova matična ploča je moderna i nova matična koja podržava procesor kojeg sam uzeo. Matična je poznata kao matična za novije Ryzen procesore.
+
+\section{Memorija}
+\textbf{ADATA XPG Lancer Blade}
+\\ 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory
+\\ Ova memorija je vrlo brza memorija koja podržava 6000MT/s kroz EXPO. Kompatibilna je sa procesorom kojeg sam uzeo. Idealna je za igranje igrica i brze izvedbe.
+
+\section{}
+
+\end{document}
